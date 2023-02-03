@@ -13,3 +13,6 @@ func main() {
 		}
 	}
 }
+
+
+// your code fucking sucks lmao
